@@ -1,0 +1,24 @@
+{
+  "name": "trentb-buckley.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "aos": "^2.3.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trentb-buckley/trentb-buckley.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trentb-buckley/trentb-buckley.github.io/issues"
+  },
+  "homepage": "https://github.com/trentb-buckley/trentb-buckley.github.io#readme"
+}
